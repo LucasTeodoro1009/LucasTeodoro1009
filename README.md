@@ -8,7 +8,7 @@ Olá! Sou o Lucas, um entusiasta de tecnologia com experiência em Inteligência
 - **Linguagens:** JavaScript, Python
 - **Cloud Computing:** AWS, Google Cloud
 - **Banco de Dados:** SQL, NoSQL
- **Metodologias:** Scrum, Kanban
+- **Metodologias:** Scrum, Kanban
 
 ### 🌱 **O que estou aprendendo:**
 - Infraestrutura em nuvem e boas práticas de segurança.
